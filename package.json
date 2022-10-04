@@ -1,0 +1,25 @@
+{
+  "name": "multicall-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micovi/multicall-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micovi/multicall-example/issues"
+  },
+  "homepage": "https://github.com/micovi/multicall-example#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "ethers": "^5.7.1",
+    "ethers-multicall": "^0.2.3"
+  }
+}
